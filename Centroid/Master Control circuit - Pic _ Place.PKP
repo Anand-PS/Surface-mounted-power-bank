@@ -1,0 +1,43 @@
+LABCENTER PROTEUS PICK AND PLACE FILE
+=====================================
+
+Component positions for gnd plane Master Control circuit.pdsprj
+
+Fields: Part ID, Value, Package, Stock Code, Layer, Rotation, X, Y
+Units:  Rotation - degrees, X, Y  - mm
+Notes:  The X, Y value is the centre of package as drawn in ARES.
+        The origin for these values is the Output Origin.
+        The values are a guide only and must be checked manually when
+        setting up automatic insertion equipment.
+
+"U3","LM393","SOIC127P620X170-8","LCSC Part # C7955",TOP,0,26.5,-5.235
+"U1","ATTINY8520SU","SOIC127P798X2168N","LCSC Part # C152192",TOP,0,41.07,-6.105
+"U5","AMS1117 3.3V","SOT229P700X1804N","LCSC Part # C347222",TOP,0,50,-5.34
+"U4","FP6277","SOP127P600X1759N","LCSC Part # C88312",TOP,0,4.8,-6.6
+"U2","0.6mm MIC","MIC_ROM2238PNFR","# ROM-2238P-NF-R",TOP,0,55.05,-12
+"R7","Thermistor","THRMC2012X50N","LCSC Part # C143716",TOP,0,18.42,-14.4
+"R3","100k","0805_RES","LCSC Part # C118847",TOP,-90,19.3,-2.5668
+"R4","100k","0805_RES","LCSC Part # C118847",TOP,-90,19.3,-7.0668
+"R5","150R","0805_RES","LCSC Part # C253459",TOP,180,49.8332,-14.6
+"R6","TC33X2105G","TRIM_TC33X2105G","# TC33X-2-105G",TOP,180,43.1,-14
+"C4","10u","CAPC2012X100","LCSC Part # C90544",TOP,180,48.7,-10.8
+"C1","22u","CAPC3216X140","LCSC Part # C93135",TOP,0,4.8,-11.9
+"C5","22u","CAPC3216X140","LCSC Part # C93135",TOP,0,57,-6.9
+"C6","47u","CAPC3225X100","LCSC Part # C515691",TOP,270,36.6,-14.2
+"J2","USB Type-C Pin","TYPE C CONNECTOR","GCT # USB4120-03-C",TOP,0,29.95,-14.5
+"C2","22u","CAPC3216X140","LCSC Part # C93135",TOP,90,23.1,-14.1
+"C3","100n","0805_CAP","LCSC Part # C94108",TOP,-180,41.3332,-1.8
+"C7","100n","0805_CAP","LCSC Part # C94108",TOP,180,25.1332,-9.1
+"L1","4.7uH","IND_A921CY4R7MP3","#A921CY-4R7M=P3",TOP,90,12.4,-12.4
+"R11","22k","0805_RES","LCSC Part # C304826",TOP,0,32.8668,-12.1
+"R12","22k","0805_RES","LCSC Part # C304826",TOP,180,26.9332,-12
+"R13","1k","0805_RES","LCSC Part # C204136",TOP,0,32.7332,-5.9
+"R10","0.01Ohm","RESC6432X70","Digikey P.10UTR-ND",TOP,180,13.95,-3.2
+"R14","1k","0805_RES","LCSC Part # C204136",TOP,0,32.7668,-8.2
+"R16","110k","0805_RES","LCSC Part # C204163",TOP,-90,34.7,-2.6668
+"R15","110k","0805_RES","LCSC Part # C204163",TOP,-90,31.7,-2.6332
+"R1","75k","0805_RES","LCSC Part # C104503",TOP,180,11.8332,-6.9
+"R2","10k","0805_RES","LCSC Part # C108451",TOP,0,15.9668,-6.9
+"R8","10k","0805_RES","LCSC Part # C108451",TOP,180,18.4332,-12.1
+"R9","36k","0805_RES","LCSC Part # C168444",TOP,90,8.9,-2.6332
+"J1","Battery Input Terminal","TERMINAL","-",TOP,180,3.55,-2
