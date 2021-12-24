@@ -1,12 +1,21 @@
 # Surface-mounted-power-bank
 
 ## Overview
+<br>
+<p align="center"> 
+    <img src="https://github.com/aravinds-arv/Surface-mounted-power-bank/blob/main/Gallery/3_model_exploded.png?raw=true" alt="3D-Model" width="800"/>
+</p>
 
-<img src="https://github.com/aravinds-arv/Surface-mounted-power-bank/blob/main/Gallery/3_model_exploded.png?raw=true" alt="3D-Model" width="200"/>
+<br>
 
 In the modern scenario, it is difficult to get a quality power bank for smartphones at a cheaper price and also people prefer a lighter, portable and compact option. Rechargingthe only power bank, then using it afterwards may cause a delay in the relative time between charging the phone with it and of the power bank.
 
-<img src="https://github.com/aravinds-arv/Surface-mounted-power-bank/blob/main/Gallery/1_components.png?raw=true" alt="Components-Block-Diagram" width="200"/>
+<br>
+<p align="center">
+    <img src="https://github.com/aravinds-arv/Surface-mounted-power-bank/blob/main/Gallery/1_components.jpg?raw=true" alt="Components-Block-Diagram" width="800"/>
+</p>
+
+<br>
 
 In this project, we have redesigned the concept of power banks from a different perspective. The design of the product includes a specially-designed back casing and 2 slip and slide batteries. The batteries resemble the shape and size of  credit cards and can be replaced at the provided space, it will be connected to the type-c USB port of the phone by means of a connector from the back casing. The power in the card can directly charge the phone.
 
@@ -16,15 +25,15 @@ An optional in-app communication for charging is also enabled. The batteries are
 
 ## Technical Specifications
 
-|INPUT||
+|||
 |-|-|
+| **INPUT** ||
 |Charging voltage|5V +/- 0.5V|
 |Intake current|1A (Max)|
-
-|OUTPUT||
-|-|-|
-|Rated output Voltage|5.1V|
+|||
+| **OUTPUT** ||
 |Power|18.5Wh x 2|
+|Rated output Voltage|5.1V|
 |Rated output Current|2A|
 
 <br>
@@ -52,19 +61,28 @@ An optional in-app communication for charging is also enabled. The batteries are
 
 ## PCB Layers
 
-<img src="https://github.com/aravinds-arv/Surface-mounted-power-bank/blob/main/Gallery/PCB-layers.png?raw=true" alt="PCB-Layers" width="200"/>
+<br>
+<p align="center">
+    <img src="https://github.com/aravinds-arv/Surface-mounted-power-bank/blob/main/Gallery/PCB-layers.png?raw=true" alt="PCB-Layers" width="800"/>
 
 <br>
 
 ## PCB 3D
+  
+<br>
+<p align="center">
+    <img src="https://github.com/aravinds-arv/Surface-mounted-power-bank/blob/main/Gallery/PCB-3D.png?raw=true" alt="PCB-3D" width="800"/>
 
-<img src="https://github.com/aravinds-arv/Surface-mounted-power-bank/blob/main/Gallery/PCB-3D.png?raw=true" alt="PCB-3D" width="200"/>
-
+<br>
 <br>
 
 ## External links
 1. [Detailed project report and circuit working](https://github.com/aravinds-arv/Surface-mounted-power-bank/blob/main/Documentation/design_report.pdf)
 2. [Extended collection of photos of the 3D Model and Block Diagrams](https://drive.google.com/drive/u/0/folders/1EGEI7KlcN9sly1OqtrqAfpdaZnEzriVc)
+  
+<br>
 
 ## Contribute
 Any thoughts on improving the design or manufacturing this - we would love to hear from you :) You can contact us here: [anandpsadanandan@gmail.com](mailto:anandpsadanandan@gmail.com)
+  
+<br>
