@@ -3,7 +3,7 @@
 ## Overview
 <br>
 <p align="center"> 
-    <img src="https://github.com/aravinds-arv/Surface-mounted-power-bank/blob/main/Gallery/3_model_exploded.png?raw=true" alt="3D-Model" width="800"/>
+    <img src="https://github.com/aravinds-arv/Surface-mounted-power-bank/blob/main/Gallery/3_model_exploded.png?raw=true" alt="3D-Model" width="650"/>
 </p>
 
 <br>
@@ -12,7 +12,7 @@ In the modern scenario, it is difficult to get a quality power bank for smartpho
 
 <br>
 <p align="center">
-    <img src="https://github.com/aravinds-arv/Surface-mounted-power-bank/blob/main/Gallery/1_components.jpg?raw=true" alt="Components-Block-Diagram" width="800"/>
+    <img src="https://github.com/aravinds-arv/Surface-mounted-power-bank/blob/main/Gallery/1_components.jpg?raw=true" alt="Components-Block-Diagram" width="650"/>
 </p>
 
 <br>
@@ -63,7 +63,7 @@ An optional in-app communication for charging is also enabled. The batteries are
 
 <br>
 <p align="center">
-    <img src="https://github.com/aravinds-arv/Surface-mounted-power-bank/blob/main/Gallery/PCB-layers.png?raw=true" alt="PCB-Layers" width="800"/>
+    <img src="https://github.com/aravinds-arv/Surface-mounted-power-bank/blob/main/Gallery/PCB-layers.png?raw=true" alt="PCB-Layers" width="650"/>
 
 <br>
 
@@ -71,7 +71,7 @@ An optional in-app communication for charging is also enabled. The batteries are
   
 <br>
 <p align="center">
-    <img src="https://github.com/aravinds-arv/Surface-mounted-power-bank/blob/main/Gallery/PCB-3D.png?raw=true" alt="PCB-3D" width="800"/>
+    <img src="https://github.com/aravinds-arv/Surface-mounted-power-bank/blob/main/Gallery/PCB-3D.png?raw=true" alt="PCB-3D" width="650"/>
 
 <br>
 <br>
